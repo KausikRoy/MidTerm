@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11971" started-at="2020-02-19T18:13:20 CST" finished-at="2020-02-19T18:13:32 CST">
+  <suite name="Default suite" duration-ms="12062" started-at="2020-02-22T18:11:17 CST" finished-at="2020-02-22T18:11:29 CST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11971" started-at="2020-02-19T18:13:20 CST" finished-at="2020-02-19T18:13:32 CST">
+    <test name="Default test" duration-ms="12062" started-at="2020-02-22T18:11:17 CST" finished-at="2020-02-22T18:11:29 CST">
       <class name="test.PostDiplayTest">
-        <test-method status="PASS" signature="newPostShouldBeDisplayedOnTable()[pri:1, instance:test.PostDiplayTest@73d4cc9e]" name="newPostShouldBeDisplayedOnTable" duration-ms="11920" started-at="2020-02-19T18:13:20 CST" finished-at="2020-02-19T18:13:32 CST">
+        <test-method status="PASS" signature="newPostShouldBeDisplayedOnTable()[pri:1, instance:test.PostDiplayTest@5427c60c]" name="newPostShouldBeDisplayedOnTable" duration-ms="12017" started-at="2020-02-22T18:11:17 CST" finished-at="2020-02-22T18:11:29 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newPostShouldBeDisplayedOnTable -->

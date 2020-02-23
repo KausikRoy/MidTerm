@@ -21,7 +21,7 @@ public class AddQuickDraftTest {
 		Thread.sleep(3000);
 
 		AddQuickDraftPage addQuickDraftPage = PageFactory.initElements(driver, AddQuickDraftPage.class);
-		addQuickDraftPage.createNewDraft("My Today's Draft recent attempt ", "Good Morning World");
+		addQuickDraftPage.createNewDraft("My Today's Draft recent dummy attempt ", "Good Morning World");
 		
 		addQuickDraftPage.isMyDraftsaved();
 		

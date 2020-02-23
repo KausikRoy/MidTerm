@@ -32,7 +32,7 @@ public class AddQuickDraftPage extends BasePage{
 	}
 	public boolean isMyDraftsaved(){
 		waitForDraftTitle();
-		Save_Post_Field.isDisplayed();
+		Save_Draft_Success_Field.isDisplayed();
 		
 		return true;
 	}
